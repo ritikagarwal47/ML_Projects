@@ -1,4 +1,4 @@
-#Work on ML projects during Verzeo Internship 
+# Work on ML projects during Verzeo Internship 
 Project 1 problem Statement: 
 To expose the best combination for strategy games available in the AppStore in order to get a good user rating (4.0/5.0 and above).
 
