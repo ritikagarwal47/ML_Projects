@@ -1,8 +1,8 @@
 # Work on ML projects during Verzeo Internship 
-Project 1 problem Statement: 
+Project 1 Problem Statement: 
 To expose the best combination for strategy games available in the AppStore in order to get a good user rating (4.0/5.0 and above).
 
 -> Perform Data Preparation by cleaning the data and removing null values.
 -> Identify Which genres have higher user ratings.
 -> Identify the trend of user ratings based on pricing.
-->State your inferences.
+-> State your inferences.
